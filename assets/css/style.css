@@ -341,6 +341,7 @@ h6,
   overflow: hidden;
   position: relative;
   background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
+  background-size: 100% auto;
   padding: 0;
 }
 
